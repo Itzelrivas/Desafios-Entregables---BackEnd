@@ -53,5 +53,5 @@ newProducto1.addProduct(newProducto1);
 newProducto2.getProducts();
 newProducto2.getProductById(4); 
 
-const newProducto3 = new ProductManager("", "Playera tipo polo azul", 580, "www.url.fake.imaginacion.com", 5322, 1);
+const newProducto3 = new ProductManager("", "Playera tipo polo azul", 580, "www.url.fake.imaginacion.com", 6572, 1);
 newProducto3.addProduct(newProducto3);

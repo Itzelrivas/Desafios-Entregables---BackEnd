@@ -59,4 +59,4 @@ newProducto.getProducts();
 
 newProducto.getProductById(4); 
 
-newProducto.addProduct("", "Playera tipo polo azul", 580, "www.url.fake.imaginacion.com", 5322, 1);
+newProducto.addProduct("", "Playera tipo polo azul", 580, "www.url.fake.imaginacion.com", 1522, 1);
